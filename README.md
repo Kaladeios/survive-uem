@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/survive uem 1.png" width="120" height="120" alt="Survive UEM logo" />
+<img src=".github/assets/survive uem 1.png" width="50%" height="50%" alt="Survive UEM logo" />
 
 # Survive UEM
 
